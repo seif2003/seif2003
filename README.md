@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.benamara.tn/](https://www.benamara.tn/)
 
-- 💬 Ask me about **Django , Next.js**
+- 💬 Ask me about **Django & Next.js**
 
 - 📫 How to reach me **seifddinebenamara2022@gmail.com**
 
