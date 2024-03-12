@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **Vitvent**
 
-- 🌱 I’m currently learning **Symfony & Spring Boot**
+- 🌱 I’m currently learning **Symfony & Spring Boot & Docker**
 
 - 👨‍💻 All of my projects are available at [https://www.benamara.tn/](https://www.benamara.tn/)
 
-- 💬 Ask me about **Django , Next.js , Docker**
+- 💬 Ask me about **Django , Next.js**
 
 - 📫 How to reach me **seifddinebenamara2022@gmail.com**
 
