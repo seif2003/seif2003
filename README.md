@@ -1,9 +1,6 @@
 <h3 align="center">A passionate Full Stack Developer from Tunisia</h3>
 
-<p align="left"><a href="https://www.benamara.tn/" 
-    <img src="https://www.benamara.tn/bg/page.png" alt="seif2003"  />
-</a>
- </p>
+<p align="left"> <a href="https://www.benamara.tn/"><img src="https://www.benamara.tn/bg/page.png" alt="seif2003" /></a> </p>
 
 - 🔭 I’m currently working on **Vitvent**
 
