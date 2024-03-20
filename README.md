@@ -1,10 +1,7 @@
 <h3 align="center">A passionate Full Stack Developer from Tunisia</h3>
 
 <p align="left"><a href="https://www.benamara.tn/" 
-   onmouseover="this.getElementsByTagName('img')[0].style.opacity='0.7';" 
-   onmouseout="this.getElementsByTagName('img')[0].style.opacity='1';">
-    <img src="https://www.benamara.tn/bg/page.png" alt="seif2003" 
-         style="transition: opacity .3s ease-in-out;" />
+    <img src="https://www.benamara.tn/bg/page.png" alt="seif2003" style="transition: opacity .3s ease-in-out;" />
 </a>
  </p>
 
