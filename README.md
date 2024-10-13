@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Erpygo**
 
-- 🌱 I’m currently learning **Symfony & Spring Boot & Docker**
+- 🌱 I’m currently learning **Spring Boot & Angular**
 
 - 👨‍💻 All of my projects are available at [https://www.benamara.tn/](https://www.benamara.tn/)
 
